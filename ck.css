@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.header{
+        background-color: #000;
+    color: white;
+    height: 59px;
+    font-size: 19px;
+    padding-top: 14px;
+    text-align: center;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    padding: 33px
+}
+.menu-logo{
+    display: flex;
+    width: 80%;
+}
+.main-menu{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    width: 44%;
+    font-size: 19px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+ul li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: #000;
+}
+h1{
+    background-color: #000;
+    color: white;
+    font-size: 10px;
+}
+.img1{
+    height: 23px;
+}
+.cklogo{
+    position: absolute;
+    left: 46%;
+}
+.icons{
+    position: absolute;
+    left: 86%;
+}
+.search{
+    padding-right: 27px;
+}
+.user{
+padding-right: 27px;
+}
+.nav-text1{
+    height: 50px;
+    margin: 18px 0px 0px 30px;
+    font-size: 12px;
+}
+h2 a{
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.nav-text2{
+     height: 66px;
+}
+h3 a{
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 33px;
+    padding-left: 30px;font-size: 33px;
+    padding-left: 30px;
+}
+.card-container{
+    display: flex;
+    padding: 0px 24px;
+    gap: 5px
+}
+.card1{
+    width: 20%;
+}
+.img2{
+    width: 95%;
+}
+.card-text1{
+    height: 51px;
+    padding: 15px 0px 0px 0px;
+}
+.card-text1 a {
+text-decoration: none;
+list-style: none;
+font-size: 20px;
+font-weight: 500;
+color: #000;
+font-family: Arial, Helvetica, sans-serif;
+}
+.card-text2 a{
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+    font-family: Arial, Helvetica, sans-serif;
+}
